@@ -1,0 +1,23 @@
+{
+  "name": "burguer-calculator",
+  "version": "1.0.0",
+  "description": "Just an exercise",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElTupac/burguer-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElTupac/burguer-calculator/issues"
+  },
+  "homepage": "https://github.com/ElTupac/burguer-calculator#readme",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
